@@ -1,7 +1,7 @@
 # Dynamic Service Registration
 
 ## Introduction
-DynamicServiceRegistration is a demonstration project showcasing how to register services dynamically in a .NET Core or .NET 5+ application using attributes to define the lifetime of each service. This approach provides flexibility and ease of management when dealing with a large number of services.
+DynamicServiceRegistration is a demonstration project showcasing how to register services dynamically in a .NET Core application using attributes to define the lifetime of each service. This approach provides flexibility and ease of management when dealing with a large number of services.
 
 ## Usage
 
